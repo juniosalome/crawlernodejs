@@ -16,16 +16,16 @@ Construir um crawler dinâmico que visita a página do Mercado Livre
 
 3- Acesse a pasta do projeto via terminal 
 
-4- Digite no terminal
+4- Digite o comando no terminal
 
-'''
+```
   npm init -y
-'''  
+```  
 
 5- Para o projeto funcionar precisamos instalar a biblioteca "Puppeteer"
 
-6- Digite no terminal
+6- Digite o comando no terminal
 
-'''
+```
   npm i puppeteer
-'''
+```
